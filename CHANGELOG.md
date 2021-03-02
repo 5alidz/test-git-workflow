@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/5alidz/test-git-workflow/compare/v0.0.2...v0.0.3) (2021-03-02)
+
+
+### Features
+
+* export log function so others can use it ([1fb65ab](https://github.com/5alidz/test-git-workflow/commit/1fb65ab9a6786cc02974c35483307fd516cb9abf))
+
 ### [0.0.2](https://github.com/5alidz/test-git-workflow/compare/v0.0.2-0...v0.0.2) (2021-03-02)
 
 
