@@ -1,0 +1,16 @@
+{
+  "name": "test-git-workflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "khaled <kzack-dev@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "3.3.0",
+    "standard-version": "^9.1.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
