@@ -5,9 +5,12 @@
   "author": "khaled <kzack-dev@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "github-releaser": "CHANGELOG=$(sed -n \"/^## v$npm_package_version/,/^## /p\" CHANGELOG.md | sed '1d;$d') && gh release create v$npm_package_version --title v$npm_package_version --notes \"$CHANGELOG\"",
+    "postrelease": "git push --follow-tags origin master && yarn github-releaser"
   },
   "devDependencies": {
+    "conventional-github-releaser": "^3.1.5",
     "cz-conventional-changelog": "3.3.0",
     "standard-version": "^9.1.1"
   },
