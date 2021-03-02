@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/5alidz/test-git-workflow/compare/v0.0.3...v0.0.4) (2021-03-02)
+
+
+### Features
+
+* add lazy logging via sleep fn ([343869b](https://github.com/5alidz/test-git-workflow/commit/343869bb54c82afd4e39c9be8d28137c667d77cb))
+
 ### [0.0.3](https://github.com/5alidz/test-git-workflow/compare/v0.0.2...v0.0.3) (2021-03-02)
 
 
