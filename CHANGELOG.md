@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/5alidz/test-git-workflow/compare/v0.0.4...v0.0.5) (2021-03-02)
+
+
+### Features
+
+* add calc functionality ([0ff64e8](https://github.com/5alidz/test-git-workflow/commit/0ff64e89a6c5412ff31a67008a4bf10aa7fb61c6))
+
 ### [0.0.4](https://github.com/5alidz/test-git-workflow/compare/v0.0.3...v0.0.4) (2021-03-02)
 
 
