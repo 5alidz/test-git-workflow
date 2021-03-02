@@ -10,6 +10,11 @@ function log(msg, time) {
   }
 }
 
+function calc(a, b) {
+  return a + b;
+}
+
 module.exports = {
   log,
+  calc,
 };
