@@ -9,7 +9,6 @@
     "push": "git push --follow-tags origin master"
   },
   "devDependencies": {
-    "conventional-github-releaser": "^3.1.5",
     "cz-conventional-changelog": "3.3.0",
     "standard-version": "^9.1.1"
   },
